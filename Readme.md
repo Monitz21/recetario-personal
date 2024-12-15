@@ -14,9 +14,10 @@ La página principal incluye:
 ## Cómo visualizar el proyecto
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <url-del-repositorio>
+   git clone <https://github.com/Monitz21/recetario-personal>
    ```
 2. Abre el archivo `index.html` en tu navegador web preferido.
+3. Puedes ver la página web desde 
 
 ## Estructura del Proyecto
 - **index.html**: Página principal del recetario.

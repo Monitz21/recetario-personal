@@ -9,9 +9,9 @@ body {
 h1, h2 {
         color: #ac4bb5;
     }
-    .profile-photo {width: 300px;}
+    .profile-photo {width: 700px;}
 p{
     color: black;
-    margin-bottom: auto;
-    background-color: #696469;
+    margin-bottom: auto;  
+
 }
