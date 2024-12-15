@@ -17,7 +17,7 @@ La página principal incluye:
    git clone <https://github.com/Monitz21/recetario-personal>
    ```
 2. Abre el archivo `index.html` en tu navegador web preferido.
-3. Puedes ver la página web desde 
+3. Puedes ver la página web desde https://monitz21.github.io/recetario-personal/
 
 ## Estructura del Proyecto
 - **index.html**: Página principal del recetario.
