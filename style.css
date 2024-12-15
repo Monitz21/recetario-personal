@@ -10,3 +10,8 @@ h1, h2 {
         color: #ac4bb5;
     }
     .profile-photo {width: 300px;}
+p{
+    color: black;
+    margin-bottom: auto;
+    background-color: #ac4bb5;
+}
